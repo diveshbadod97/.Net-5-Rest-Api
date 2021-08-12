@@ -26,9 +26,7 @@
 
 ### Persisting Entities with MongoDB
 * Creating a MongoDB repository
-* Using the MongoDB.Driver NuGet package
 * Implementing MongoDB Create
-* Running the MongoDB Docker container
 * Configuring MongoDB connection settings
 * Registering the MongoClient singleton
 * Testing the MongoDB integration
